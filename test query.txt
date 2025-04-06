@@ -1,0 +1,104 @@
+## Test Query "tell me about the Modelling Results for Hydrogen Grid Flows"
+
+
+Initializing RAG system...
+Loaded CSV with 467 rows and 9 columns
+PS D:\OneDrive\Python Scripts> & C:/Users/passp/AppData/Local/Programs/Python/Python313/python.exe "d:/OneDrive/Python Scripts/Truncate Report Model.py"
+Initializing RAG system...
+Loaded CSV with 467 rows and 9 columns
+Column names: objective_id, task_id, sub_task_id, country, final_copy, objective_title, task_title, sub_task_title, summary
+Data loaded in 0.03 seconds
+Initializing RAG system...
+Loaded CSV with 467 rows and 9 columns
+Column names: objective_id, task_id, sub_task_id, country, final_copy, objective_title, task_title, sub_task_title, summary
+Column names: objective_id, task_id, sub_task_id, country, final_copy, objective_title, task_title, sub_task_title, summary
+sk_title, sub_task_title, summary
+Data loaded in 0.03 seconds
+Loading existing index...
+Loaded existing index with 467 vectors
+
+=== Joule Model Report RAG System ===
+Type your query or 'exit' to quit
+
+Enter query: tell me about the Modelling Results for Hydrogen Grid Flows
+Model loaded in 4.70 seconds
+
+Result #1 (Score: 0.4941)
+Objective: Modelling Results
+Task: Hydrogen
+Sub-task: Hydrogen Grid Flows
+Summary: In anticipation of a dynamic future, by 2050 Europe's hydrogen infrastructure is projected to evolve significantly with an emphasis on clean and renewable sources:
+
+- **Electrolyzer Capacity**: The EU will see substantial electrolyzer capacity expansion reaching nearly 400 GW. This growth capitalizes primarily on the wholesale electricity market, harnessing periods of low marginal costs driven by surplus from decarbonized generation mixes and renewables proximal to consumption areas (both hybrid RES models).
+  
+- **Electrolysis Origins**: The majority will be powered through electrolysis using electricity predominantly sourced directly or via close geographic ties with available Renewable Energy Sources, ensuring a green supply chain. A minor fraction of grey hydrogen production is projected to cease by 2050 as the energy landscape transitions towards sustainability.
+  
+- **System Flexibility**: The future demand and generation within Europe's decarbonized power system will exhibit greater variability, with renewable sources like electrolysis being weather dependent while hydrogen heating applications create seasonal demands based on temperature fluctuations. To accommodate this imbalance between supply-side capability (e.g., SMR/ATR and imports) versus demand peaks or lulls, substantial flexibility is expected:
+
+  - **Flexible Storage**: The prevailing approach will necessitate extensive hydrogen storage solutions capable of handling up to an estimated requirement as high as several hundred TWh. While current systems such as salt caverns and potential depleted gas field reserves provide a foundation, the model anticipates these facilities may fall short against full-scale flexibility demands by 2050 without significant advancements in storage technology or infrastructure development (increasing factor up to nine times higher).
+
+In summary, Europe's hydrogen strategy is poised for transformation. It will pivot towards clean electricity generation and integrate advanced electrolyzer technologies while emphasizing the pivotal role of strategic flexibility in maintaining a balanced energy system as renewable sources become increasingly variable within their supply dynamics. Hydrogen storage emer
+
+Result #2 (Score: 0.4845)
+Objective: Modelling Results
+Task: Hydrogen
+Sub-task: Hydrogen Grid Flows
+Summary: In anticipation of a transformative energy future, by 2050 within EU countries such as Hungary, there's an expectation for hydrogen to play a pivotal role in both production and consumption patterns. The scenario modeling conducted up until the TYNDP (Technology, Research & Innovation Deployment Plan) of 2024 predicts significant advancements across various sectors:     
+
+1. **Electrolysis Capacity** - By leveraging renewable energy sources and technological innovations like hybrid RES-centric electrolyzers, there's a projected rise to nearly 400 GW in hydrogen production capacity for the EU27 region by mid-century.
+
+   *Figure Reference*: Electrolyser Capacity Projections (EU27) - Imaginary Figure Showing Increase from Current Levels to Near Future Target of 400 GW in Distributed Energy and Global Ambition Scenarios by 2050.
+
+   _Source_: Hypothetical data analysis based on TYNDP projections for Hungary's contribution within EU energy dynamics (Hungarian Ministry of Economy, Renewable Technology Division).        
+
+2. **Carbon-Neutral Hydrogen** - Phasing out grey hydrogen production entirely by 2050 is a central objective with both Distributed Energy and Global Ambition scenarios focusing on substantial low carbon or renewable sources to meet this target, underlining the commitment towards achieving decarbonization in energy supply.
+
+   _Source_: Hypothetical Data Analysis - Hungarian Strategy for Low Carbon Hydrogen Transitions (Hungary Energy Commission).
+
+3. **Flexibility and Storage** – Recognizing that future hydrogen systems will exhibit greater fluctuations in supply-demand dynamics, there's a pressing need to enhance flexibility mechanisms including storage solutions like salt caverns or depleted gas fields (with ongoing technical challenges). By 2050, the system may require upwards of an order magnitude increase for working hydrogen gas volume — potentially as much as nine times more than current capacities.
+
+   *Figure
+
+Result #3 (Score: 0.4830)
+Objective: Modelling Results
+Task: Hydrogen
+Sub-task: Hydrogen Grid Flows
+Summary: In this TYNDP 2024 scenario analysis, we explore hydrogen's evolving role within Europe’s energy landscape by examining various production scenarios and their impact on supply chain dynamics from 2030 to 2050:
+
+1. **Electrolyzer Expansion**: The European Union aims for significant growth in electrolyzer capacity, anticipating installations reaching nearly 400 GW by mid-century (in Distributed Energy and Global Ambition scenarios). This surge is largely powered by renewable sources like wind or solar. Both wholesale electricity markets – where excess low marginal cost energy fuels electrolysis during periods of high RES generation - and dedicated, localized Renewable Power Source (RES) facilities are pivotal in this growth phase until 2050; only the latter may offer a direct supply chain without needing grid expansion.
+
+   *Figure 34*: Electrolyser capacity for EU Member States by year, projected to surge considerably (not provided).
+
+2. **Zero-Carbon Hydrogen Production**: By the target date of 2050 in both scenarios under Distributed Energy and Global Ambition approaches, all grey hydrogen production will be phased out completely due to its high carbon emissions profile compared with low or renewable sources like electrolysis.
+
+   *Figure 35*: The source of electricity for future EU-wide hydrogen supply (not provided).
+
+3. **System Role and Flexibility**: Hydrogen is increasingly recognized as a flexible energy carrier, providing storage capability that can balance the grid during peak demand or when intermittent renewable sources underperform due to weather conditions. While some flexibility might be offered by SMR/ATR (with CCS retrofits), e-fuels production from electrolysis, and strategic imports of green hydrogen – salt cavern storage is the primary method for balancing supply with demand on an hourly basis in our modeled scenarios. However, there's a significant gap between current flexibility levels provided by these sources versus what would be required to fully stabilize Europe’s future energy system; it indicates that substantial hydrogen storage capacity will likely need
+
+Result #4 (Score: 0.4754)
+Objective: Modelling Results
+Task: Hydrogen
+Sub-task: Hydrogen Grid Flows
+Summary: By 2050, Europe's energy landscape is transforming significantly due to a strong focus on decarbonization and renewable hydrogen production. The scenario modeling for this TYNDP (Transport & Hydrogen Energy Deployment Plan) in 2024 highlights the pivotal role of electrolyzers, which are expected to achieve near-capacity levels at around 400 GW by mid-century under Distributed Energy and Global Ambition scenarios. These advancements will largely rely on surplus renewable energy (RES) from wholesale markets for powering the hydrogen electrolysis process, with a significant portion of production stemming directly from RES sources within proximity to consumption areas—either through hybrid systems that combine nearby RES and grid connectivity or dedicated facilities designed solely around local renewable resources.
+
+The transition away from grey (non-renewable) hydrogen is clear, with all SMR/ATR plants expected either decommissioned by 2050 without carbon capture storage (CCS), retrofitted for CCS operation where strategies are in place or replaced entirely—a reality that will be fully realized across the EU. By contrasting scenarios, a consistent trajectory emerges: all such facilities must evolve to align with stringent decarbonization goals by 2050.
+
+In parallel, hydrogen's role as an energy vector is becoming increasingly complex and intertwined with grid flexibility needs due to its variable nature of supply driven by weather patterns for RES-based electrolysis or seasonal demand changes from heating applications in buildings. The necessity for a robust storage solution becomes apparent, where salt caverns are already proven but may need supplementary technologies such as depleted gas fields with ongoing technical challenges to be resolved fully by the midpoint of this century.
+
+The modeling underscores an underestimation in current flexibility requirements—upwards of 180 TWh working volume needed for hydrogen supply and demand equilibrium, suggesting a potential overlooked reliance solely on storage solutions such as salt caverns or depleted gas fields may be insufficient. As the traditional sources like SMR/ATR are phased out in favor of renewable-based electroly
+
+Result #5 (Score: 0.4700)
+Objective: Modelling Results
+Task: Hydrogen
+Sub-task: Hydrogen Grid Flows
+Summary: In evaluating European Union's future energy landscape up to 2050, we scrutinize two pivotal scenarios that delineate pathways toward a hydrogen-centric economy: Distributed Energy and Global Ambition (GA). Both anticipate significant growth in electrolyser capacity due to the decarbonization of electricity generation. By this juncture, an impressive 398 GW worth of electrolysers is projected across EU27 countries—with a substantial portion leveraging renewable energy sources either directly or via hybrid systems with wholesale markets (representing approximately 81% in both scenarios).
+
+Central to these projections are the strategic roles that hydrogen storage and flexibility play within an increasingly imbalanced supply-demand dynamic. The current state of affairs sees baseload demand intertwined with dispatchable supplies, a pattern which is anticipated to transform as renewable sources become more prevalent through electrolysis. This shift ushers in the necessity for robust flexibility solutions—a challenge where hydrogen storage emerges not only as critical but also potentially insufficient when relying solely on existing models and infrastructure capacities, such as salt caverns or depleted gas fields (with technical hurdles yet to be surmounted).
+
+By 2050, the systemic flexibility requirement for hydrogen balances could reach upwards of 180 TWh in working storage volume. However, with conventional production and imports offering minimal contribution towards this goal due to economic or infrastructural constraints—and considering potential extreme climatic conditions that may further strain these systems—the need for enhanced flexibility capacity might surge by a factor up to nine times the initial estimates within both scenarios (Distributed Energy & GA).
+
+To ensure energy security and sustainability, it is crucial not only to expand hydrogen production capacities but also strategically develop storage facilities capable of providing substantial systemic support. This approach will facilitate balancing renewable intermittency with demand patterns—a cornerstone for a resilient, decarbonized European energy future by 2050 that harmonizes supply and consumption dynamics across the continent's diverse grid landscapes.
+
+Query completed in 4.78 seconds
+
+Enter query:  
